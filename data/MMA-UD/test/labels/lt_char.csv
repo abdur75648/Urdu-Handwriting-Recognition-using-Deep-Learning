@@ -20,6 +20,7 @@
 ی_final
 ی_initial
 س_initial
+س_middle
 ت_middle
 ق_initial
 ئ_initial
@@ -43,6 +44,8 @@
 ل_final
 ؟_isolated
 ش_initial
+ش_middle
+ش_isolated
 ہ_final
 ہ_isolated
 ہ_initial
@@ -72,7 +75,6 @@
 ح_middle
 ظ_initial
 ص_middle
-س_middle
 ق_middle
 ظ_middle
 ع_middle
@@ -102,7 +104,6 @@
 ج_final
 ج_initial
 ج_isolated
-ش_middle
 ب_middle
 ح_isolated
 ح_initial
@@ -139,8 +140,6 @@
 ج_isolated
 ٹ_initial
 ض_middle
-:_isolated
-ش_isolated
 ٔ_isolated
 خ_final
 خ_initial
@@ -149,8 +148,6 @@
 ڑ_isolated
 ٰ_hijja
 ھ_isolated
-(_isolated
-)_isolated
 پ_middle
 گ_isolated
 !_isolated
@@ -175,6 +172,10 @@
 ژ_isolated
 خ_isolated
 ج_isolated
+ه_final
+ه_isolated
+ه_initial
+ه_middle
 …_no_joining_form
 ._no_joining_form
 ً_no_joining_form
@@ -197,6 +198,14 @@
 ّ_no_joining_form
 ٴ_no_joining_form
 ؟_no_joining_form
+(_no_joining_form
+)_no_joining_form
+"_no_joining_form
+'_no_joining_form
+”_no_joining_form
+“_no_joining_form
+‘_no_joining_form
+:_no_joining_form
 ﷺ_no_joining_form
 0_no_joining_form
 1_no_joining_form
