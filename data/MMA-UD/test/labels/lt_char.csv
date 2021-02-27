@@ -89,6 +89,8 @@
 غ_initial
 آ_isolated
 آ_final
+أ_isolated
+أ_final
 ز_isolated
 ف_final
 ب_final
@@ -175,6 +177,7 @@
 ه_isolated
 ه_initial
 ه_middle
+ں_middle
 …_no_joining_form
 ._no_joining_form
 ,_no_joining_form
@@ -210,6 +213,8 @@
 !_no_joining_form
 %_no_joining_form
 /_no_joining_form
+\_no_joining_form
+-_no_joining_form
 __no_joining_form
 +_no_joining_form
 =_no_joining_form
@@ -219,6 +224,8 @@ __no_joining_form
 `_no_joining_form
 ~_no_joining_form
 '_no_joining_form
+,_no_joining_form
+#_no_joining_form
 ”_no_joining_form
 “_no_joining_form
 ‘_no_joining_form
@@ -233,3 +240,4 @@ __no_joining_form
 7_no_joining_form
 8_no_joining_form
 9_no_joining_form
+"_no_joining_form
